@@ -76,7 +76,7 @@ section#img02{
 section.imagem > p{
     display: inline-block;
     padding: 5px;
-    background-color: rgb(164, 165, 170);
+    background-color: rgb(0, 0, 0,0.514);
     text-shadow: 1px,1px,0px,black; 
 }
 footer{
